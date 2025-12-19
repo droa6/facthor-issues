@@ -1,0 +1,35 @@
+title: Facthor VikingOZ
+description: Repositorio temporal para gestión de issues y documentación del proyecto
+theme: jekyll-theme-cayman
+lang: es
+
+# GitHub Pages settings
+baseurl: "/facthor-vikingoz"
+url: "https://droa6.github.io"
+
+# Navigation
+navigation:
+  - title: Inicio
+    url: /
+  - title: Documentación
+    url: /docs/
+  - title: GitHub
+    url: https://github.com/droa6/facthor-vikingoz
+
+# Jekyll settings
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+
+# Plugins
+plugins:
+  - jekyll-relative-links
+  - jekyll-optional-front-matter
+  - jekyll-readme-index
+  - jekyll-default-layout
+
+# Additional settings
+show_downloads: false
+github:
+  is_project_page: true
+  repository_url: https://github.com/droa6/facthor-vikingoz
