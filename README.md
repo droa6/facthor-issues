@@ -1,17 +1,29 @@
-# facthor-vikingoz
+# Facthor
 
-## Propósito del Repositorio
+Este es el repositorio oficial del proyecto Facthor desarrollado por [Itros Soluciones](https://itros.net/)
 
-Este es un repositorio temporal diseñado para:
+## Acerca del Proyecto
 
-- **Creación de Issues**: Utilice este repositorio para reportar problemas, sugerencias y discusiones del proyecto.
-- **Compartir Código Fuente**: El código fuente del proyecto será compartido aquí al finalizar el desarrollo.
-- **Actualizaciones Oficiales**: Todas las actualizaciones oficiales y material importante serán publicados en este repositorio.
+Facthor es un API y una aplicación web para facturación y control de inventarios para negocios en Costa Rica con integración para envío de Documentos Electrónicos.
 
-## Documentación
+## Propósito de este Repositorio
 
-La documentación será brindada en este repositorio en el directorio /docs en formato MD.
+Este repositorio sirve para:
+
+- **Gestión de Issues**: Reporte de problemas y sugerencias.
+- **Actualizaciones Oficiales**: Publicación de noticias y material importante para desarrolladores.
+- **Documentación**: Documentación técnica del proyecto y manuales de usuario.
+
+## Documentación Disponible
+
+- [Acerca de](./about.md)
+- [Guía de Inicio](./docs/getting-started.md)
+- [Contribuciones](./docs/contributing.md)
+
+## Contacto
+
+Para más información, por favor cree un issue en este repositorio o puede contactarnos en [https://itros.net/](https://itros.net/)
 
 ---
 
-**Nota**: Este repositorio está en configuración inicial. Más contenido será agregado próximamente.
+Última actualización: {{ site.time | date: "%Y-%m-%d" }}
