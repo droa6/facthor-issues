@@ -7,8 +7,6 @@ title: Guía de Contribuciones
 
 ## Cómo Contribuir
 
-Agradecemos tu interés en contribuir al proyecto Facthor VikingOZ. Esta guía te ayudará a entender cómo puedes participar.
-
 ## Reportar Issues
 
 ### Antes de Crear un Issue
@@ -45,38 +43,6 @@ La documentación siempre puede mejorarse. Sugerencias son bienvenidas.
 ### 💻 Contribuir Código
 
 Las contribuciones de código serán aceptadas una vez que el proyecto esté en fase de desarrollo activo.
-
-## Código de Conducta
-
-### Nuestro Compromiso
-
-Nos comprometemos a mantener un ambiente respetuoso y acogedor para todos los contribuyentes.
-
-### Estándares
-
-- Usa un lenguaje acogedor e inclusivo
-- Respeta diferentes puntos de vista
-- Acepta críticas constructivas
-- Enfócate en lo mejor para la comunidad
-- Muestra empatía hacia otros miembros
-
-## Proceso de Revisión
-
-1. **Creación del Issue**: Crea tu issue con toda la información necesaria
-2. **Revisión Inicial**: El equipo revisará tu issue
-3. **Discusión**: Podría haber discusión sobre el issue
-4. **Resolución**: El issue será asignado o cerrado según corresponda
-
-## Preguntas
-
-Si tienes preguntas sobre cómo contribuir:
-- Revisa las [preguntas frecuentes](./faq.md)
-- Crea un issue con tu pregunta
-- Etiquétalo apropiadamente
-
-## Agradecimientos
-
-Gracias por tu interés en contribuir a Facthor VikingOZ. ¡Tus contribuciones son valiosas!
 
 ---
 
