@@ -23,7 +23,3 @@ Este repositorio sirve para:
 ## Contacto
 
 Para más información, por favor cree un issue en este repositorio o puede contactarnos en [https://itros.net/](https://itros.net/)
-
----
-
-Última actualización: {{ site.time | date: "%Y-%m-%d" }}
