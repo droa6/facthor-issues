@@ -7,26 +7,27 @@ title: Guía de Inicio
 
 ## Introducción
 
-Bienvenido a la guía de inicio de Facthor VikingOZ. Esta documentación te ayudará a comenzar con el proyecto.
+Bienvenido a la guía de inicio de integración con Facthor. Esta documentación te ayudará a comenzar con el proyecto.
 
 ## Requisitos Previos
 
-Los requisitos específicos del proyecto serán documentados aquí cuando el código fuente sea publicado.
+- Conocimientos sobre integración con API REST
+- Para facilitar la solución de problemas posteriores, se sugiere tener conocimientos básicos acerca de los requisitos de Factura Electrónica del Ministerio de Hacienda
 
 ## Instalación
 
-Las instrucciones de instalación estarán disponibles cuando el proyecto sea publicado oficialmente.
+- Las instrucciones en esta documentación asumen que el cliente utiliza [Postman](https://www.postman.com/downloads/).
 
 ## Primeros Pasos
 
-1. **Explora el Repositorio**: Familiarízate con la estructura del proyecto
-2. **Lee la Documentación**: Revisa toda la documentación disponible
-3. **Crea Issues**: Si encuentras problemas o tienes sugerencias, crea un issue
+1. Descargar la colección de Postman en
+2. Solicitar un Token para desarrollo si no dispone de uno creando un issue en este repositorio.
+3. Configurar los datos del emisor de factura electrónica usando la colección y el Token
+4. Integrar sus procesos con los endpoint del API usando el Token.
 
 ## Próximos Pasos
 
 - Consulta la [guía de contribuciones](./contributing.md)
-- Revisa las [preguntas frecuentes](./faq.md)
 - Mantente atento a las actualizaciones oficiales
 
 ## Soporte
