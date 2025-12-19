@@ -1,9 +1,4 @@
----
-layout: default
-title: Inicio
----
-
-# Bienvenido a Facthor
+# Facthor
 
 Este es el repositorio oficial del proyecto Facthor desarrollado por [Itros Soluciones](https://itros.net/)
 
