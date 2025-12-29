@@ -1,11 +1,5 @@
----
-layout: default
-title: Documentación
----
 
-# Documentación de Facthor VikingOZ
-
-Bienvenido a la documentación del proyecto Facthor VikingOZ.
+# Documentación de Integración con Facthor
 
 ## Contenido
 
@@ -13,7 +7,6 @@ Bienvenido a la documentación del proyecto Facthor VikingOZ.
 
 - [**Guía de Inicio**](./getting-started.md) - Cómo comenzar con el proyecto
 - [**Guía de Contribuciones**](./contributing.md) - Cómo contribuir al proyecto
-- [**Preguntas Frecuentes (FAQ)**](./faq.md) - Respuestas a preguntas comunes
 
 ## Acerca de la Documentación
 
@@ -28,7 +21,7 @@ Esta documentación está en desarrollo activo y será actualizada regularmente 
 ## Navegación
 
 - [← Volver al inicio](../index.md)
-- [Ver repositorio en GitHub](https://github.com/droa6/facthor-vikingoz)
+- [Ver repositorio en GitHub](https://github.com/droa6/facthor)
 
 ## Contribuir a la Documentación
 
@@ -37,7 +30,3 @@ Si encuentras errores o tienes sugerencias para mejorar la documentación:
 1. Crea un issue en el repositorio
 2. Describe claramente el problema o sugerencia
 3. Etiquétalo como "documentation"
-
----
-
-Última actualización: {{ site.time | date: "%Y-%m-%d" }}

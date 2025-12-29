@@ -22,4 +22,4 @@ Este repositorio sirve para:
 
 ## Contacto
 
-Para más información, por favor cree un issue en este repositorio o puede contactarnos en [https://itros.net/](https://itros.net/)
+Para más información, por favor cree un issue en este repositorio o puede contactarnos en [https://t.me/droa6](https://t.me/droa6)
